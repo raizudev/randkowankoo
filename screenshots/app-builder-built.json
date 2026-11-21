@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Randkowanko.pl — poznaj kogoś blisko",
+      "hasCanvas": false,
+      "bodyTextLen": 1537,
+      "bodyTextHash": "b7d20de8f851842fd068ef10ac511eaea787e631945c4cd96b7838cef4ee43b1",
+      "bodyTextPrefix": "Randkowanko Wejdź teraz Najbliższa kobieta jest 7,4 km od Ciebie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Randkowanko.pl — poznaj kogoś blisko",
+      "hasCanvas": false,
+      "bodyTextLen": 1561,
+      "bodyTextHash": "96f9cf3a8a074e0aaa18780486ea33f7813b6d5353c97ae5de922161fa5ca101",
+      "bodyTextPrefix": "Randkowanko Wejdź teraz Najbliższa kobieta jest 7,4 km od Ciebie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
