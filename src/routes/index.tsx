@@ -131,7 +131,7 @@ function Home() {
                   O
                 </span>
                 <div className="min-w-0">
-                  <p className="truncate text-base font-bold">Ola, 34</p>
+                  <p className="truncate text-base font-bold">Ola, 27</p>
                   <p className="flex items-center gap-1.5 text-xs text-white/70">
                     <span className="live-dot size-1.5 rounded-full bg-[#3dff9a]" />
                     2,1 km stąd · aktywna teraz
@@ -147,7 +147,7 @@ function Home() {
                 </div>
                 <div className="chat-line chat-b">
                   <p className="mb-3 ml-auto max-w-[88%] rounded-2xl rounded-br-md bg-gradient-to-r from-[#ff2d78] to-[#ff7a18] px-3.5 py-2.5 text-sm leading-snug font-medium">
-                    Mam. Spacer czy masz ochotę do mnie przyjechać lub ja do Ciebie haha
+                    Mam. Kawa czy spacer?
                   </p>
                 </div>
                 <div className="chat-line chat-type">
@@ -159,12 +159,12 @@ function Home() {
                 </div>
                 <div className="chat-line chat-c">
                   <p className="mb-3 max-w-[88%] rounded-2xl rounded-bl-md bg-white/12 px-3.5 py-2.5 text-sm leading-snug">
-                    Może u Ciebie? Potem zobaczymy do czego nas poniesie.
+                    Najpierw kawa przy parku. Potem zobaczymy dokąd nas poniesie.
                   </p>
                 </div>
                 <div className="chat-line chat-d">
                   <p className="mb-1 ml-auto max-w-[88%] rounded-2xl rounded-br-md bg-gradient-to-r from-[#ff2d78] to-[#ff7a18] px-3.5 py-2.5 text-sm leading-snug font-medium">
-                    Może do mnie hehe, wyśle Ci zaraz pinezkę
+                    Biorę stolik. Jestem za 20 minut.
                   </p>
                 </div>
               </div>
